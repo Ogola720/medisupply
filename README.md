@@ -1,5 +1,6 @@
 # 🏥 Medical Supply Chain IoT Dashboard
 
+![Project Banner](.assets/images/Screenshot(4907).png)
 
 > A real-time IoT dashboard that monitors, logs, and tracks the supply chain of medical equipment and drugs using **ESP32**, **MQTT (HiveMQ)**, **Firebase**, and **Python Dash**.
 
@@ -69,25 +70,42 @@ python app.py
 
 4. **Simulate Data on Wokwi (ESP32)**
 
-* [Wokwi Simulation Link](#) (https://wokwi.com/projects/435671860997625857)
+* [Wokwi Simulation Link](#) (insert link)
 
 ---
 
 ## 📸 Screenshots
 
+> Add your screenshots in the `assets/images/screenshots/` folder and reference them here:
 
-| Live Dashboard View    | MQTT Log Panel         | Analytics Panel             |
-| ---------------------- | ---------------------- | --------------------------- |
-| ![assets/images/Screenshot(4907).png](assets/images/Screenshot(4907).png) | ![](assets/images/Screenshot(4914).png.png) | ![](assets/images/Screenshoot(4912).png) |
+### 🔹 Dashboard UI
+
+| Live Dashboard View                       | MQTT Log Panel                            | Analytics Panel                                |
+| ----------------------------------------- | ----------------------------------------- | ---------------------------------------------- |
+| ![](./assets/images/Screenshot(4907).png) | ![](./assets/images/Screenshot(4914).png) | ![](./assets/images/Screenshot(4912).png) |
+
+### 🔹 Firebase Console
+
+> Showcase of Firebase Realtime Database or Firestore entries:
+
+![Firebase Screenshot](./assets/images/screenshot(4918).png)
+
+### 🔹 wokwi plartform
+
+> Showcase of wokwi realtime environment:
+
+![Firebase Screenshot](./assets/images/screenshot(4925).png)
+
 
 ---
 
 ## 🔐 Firebase Setup (Optional)
 
 1. Create a Firebase project
-2. Add a realtime database
-3. Copy your Firebase credentials into `firebase_config.json`
-4. Enable database rules as needed
+2. Add a Realtime Database
+3. Copy your Firebase credentials into a file named `firebase_config.json`
+4. Make sure this file is in your root directory and not tracked in version control
+5. Enable database rules as needed to allow read/write access during testing
 
 ---
 
@@ -99,7 +117,8 @@ python app.py
 ├── mqtt_client.py
 ├── firebase_service.py
 ├── assets/
-├── images/
+│   └── images/
+│       └── screenshots/
 ├── templates/
 ├── .env
 └── README.md
@@ -129,4 +148,4 @@ This project is licensed under the [MIT License](LICENSE).
 * [Firebase](https://firebase.google.com/)
 * [Dash by Plotly](https://dash.plotly.com/)
 
-> *Built with ❤️ by \Ogola Peter*
+> *Built with ❤️ by \[Ogola Peter]*
