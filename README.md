@@ -69,7 +69,7 @@ python app.py
 
 4. **Simulate Data on Wokwi (ESP32)**
 
-* [Wokwi Simulation Link](#) (insert link)
+* [Wokwi Simulation Link](#) (https://wokwi.com/projects/435671860997625857)
 
 ---
 
@@ -78,7 +78,7 @@ python app.py
 
 | Live Dashboard View    | MQTT Log Panel         | Analytics Panel             |
 | ---------------------- | ---------------------- | --------------------------- |
-| ![](assets/images/Screenshot(4907).png) | ![](assets/images/Screenshot(4914).png.png) | ![](assets/images/Screenshoot(4912).png) |
+| ![assets/images/Screenshot(4907).png](assets/images/Screenshot(4907).png) | ![](assets/images/Screenshot(4914).png.png) | ![](assets/images/Screenshoot(4912).png) |
 
 ---
 
