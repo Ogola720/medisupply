@@ -94,7 +94,7 @@ python app.py
 
 > Showcase of wokwi realtime environment:
 
-![Firebase Screenshot](./assets/images/screenshot(4925).png)
+![wokwi Screenshoot](./assets/images/screenshot(4925).png)
 
 
 ---
