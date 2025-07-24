@@ -1,6 +1,5 @@
 # 🏥 Medical Supply Chain IoT Dashboard
 
-![Project Banner](assets/images/Screenshot (4907).png)
 
 > A real-time IoT dashboard that monitors, logs, and tracks the supply chain of medical equipment and drugs using **ESP32**, **MQTT (HiveMQ)**, **Firebase**, and **Python Dash**.
 
