@@ -1,6 +1,6 @@
 # 🏥 Medical Supply Chain IoT Dashboard
 
-![Project Banner](.assets/images/Screenshot(4907).png)
+![Project Banner](./assets/images/Screenshot(4907).png)
 
 > A real-time IoT dashboard that monitors, logs, and tracks the supply chain of medical equipment and drugs using **ESP32**, **MQTT (HiveMQ)**, **Firebase**, and **Python Dash**.
 
@@ -76,26 +76,30 @@ python app.py
 
 ## 📸 Screenshots
 
-> Add your screenshots in the `assets/images/screenshots/` folder and reference them here:
-
 ### 🔹 Dashboard UI
 
-| Live Dashboard View                       | MQTT Log Panel                            | Analytics Panel                                |
-| ----------------------------------------- | ----------------------------------------- | ---------------------------------------------- |
-| ![](./assets/images/Screenshot(4907).png) | ![](./assets/images/Screenshot(4914).png) | ![](./assets/images/Screenshot(4912).png) |
+| Live Dashboard View                               | MQTT Log Panel                                | Analytics Panel                                      |
+| ------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------- |
+| ![](./assets/images/screenshots/dashboard-ui.png) | ![](./assets/images/screenshots/mqtt-log.png) | ![](./assets/images/screenshots/analytics-panel.png) |
 
 ### 🔹 Firebase Console
 
 > Showcase of Firebase Realtime Database or Firestore entries:
 
-![Firebase Screenshot](./assets/images/screenshot(4918).png)
+![Firebase Screenshot](./assets/images/screenshots/firebase-console.png)
 
-### 🔹 wokwi plartform
+### 🔹 Wokwi Platform
 
-> Showcase of wokwi realtime environment:
+> Showcase of Wokwi simulation environment:
 
-![wokwi Screenshoot](./assets/images/screenshot(4925).png)
+![Wokwi Screenshot](./assets/images/screenshots/wokwi-platform.png)
 
+<details>
+<summary>✨ Click to animate preview</summary>
+
+![Animated View](./assets/images/screenshots/dashboard-animated.gif)
+
+</details>
 
 ---
 
