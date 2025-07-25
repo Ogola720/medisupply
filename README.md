@@ -79,8 +79,7 @@ python app.py
 ### 🔹 Dashboard UI
 
 | Live Dashboard View                               | MQTT Log Panel                                | Analytics Panel                                      |
-| ------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| ![](./assets/images/screenshots/dashboard-ui.png) | ![](./assets/images/screenshots/mqtt-log.png) | ![](https://github.com/Ogola720/medisupply/blob/1HwmBLTVwj7rGt4Z3HBLnME6gqQFERWExR/assets/images/Screenshot%20(4914).png) |
+| ![](./assets/images/screenshots/dashboard-ui.png) | ![](https://github.com/Ogola720/medisupply/blob/f7a014c442706eb53f0933654d07efa4e5660b47/assets/images/Screenshot%20(4912).png) | ![](https://github.com/Ogola720/medisupply/blob/1HwmBLTVwj7rGt4Z3HBLnME6gqQFERWExR/assets/images/Screenshot%20(4914).png) |
 
 ### 🔹 Firebase Console
 
