@@ -92,7 +92,7 @@ python app.py
 
 > Showcase of Wokwi simulation environment:
 
-![Wokwi Screenshot](./assets/images/screenshots/wokwi-platform.png)
+![Wokwi Screenshot](https://github.com/Ogola720/medisupply/blob/ded26c3217b24d8bec6d600f98646b7e480a8458/assets/images/Screenshot%20(4925)%20-%20Copy.png)
 
 <details>
 <summary>✨ Click to animate preview</summary>
