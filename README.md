@@ -1,6 +1,6 @@
 # 🏥 Medical Supply Chain IoT Dashboard
 
-![Project Banner](./assets/images/Screenshot(4907).png)
+![Project Banner](https://github.com/Ogola720/medisupply/blob/0193253d21ec531a9cc811023aa1782343cba99c/assets/images/Screenshot%20(4907).png)
 
 > A real-time IoT dashboard that monitors, logs, and tracks the supply chain of medical equipment and drugs using **ESP32**, **MQTT (HiveMQ)**, **Firebase**, and **Python Dash**.
 
