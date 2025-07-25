@@ -70,7 +70,7 @@ python app.py
 
 4. **Simulate Data on Wokwi (ESP32)**
 
-* [Wokwi Simulation Link](#) (insert link)
+* [Wokwi Simulation Link](#) (https://wokwi.com/projects/435671860997625857)
 
 ---
 
