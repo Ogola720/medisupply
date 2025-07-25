@@ -86,7 +86,7 @@ python app.py
 
 > Showcase of Firebase Realtime Database or Firestore entries:
 
-![Firebase Screenshot](./assets/images/screenshots/firebase-console.png)
+![Firebase Screenshot](https://github.com/Ogola720/medisupply/blob/5fd7bd4da0ea0c2a76a8dae11f21f05196882ec1/assets/images/Screenshot%20(4916).png)
 
 ### 🔹 Wokwi Platform
 
